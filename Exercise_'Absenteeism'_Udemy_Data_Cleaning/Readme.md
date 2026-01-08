@@ -6,5 +6,5 @@ Key steps included:
 ✅ Converting date columns into useful functions such as months and days of the week. 
 ✅ Reengineering functions such as education to simplify future modeling.
 
-
-![Cleaned Data](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Exercise_'Absenteeism'_Udemy_Data_Cleaning/data_cleaned.jpg)
+## BEFORE
+![BEFORE](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Exercise_'Absenteeism'_Udemy_Data_Cleaning/raw_data.jpg))
