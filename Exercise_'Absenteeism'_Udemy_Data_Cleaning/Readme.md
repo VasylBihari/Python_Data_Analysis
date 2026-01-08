@@ -5,3 +5,6 @@ Key steps included:
 ✅ Processing categorical data by grouping 28 reasons for absence into four logical clusters using dummy variables. 
 ✅ Converting date columns into useful functions such as months and days of the week. 
 ✅ Reengineering functions such as education to simplify future modeling.
+
+
+![Cleaned Data](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Exercise_'Absenteeism'_Udemy_Data_Cleaning/data_cleaned.jpg)
