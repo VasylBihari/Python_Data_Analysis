@@ -8,3 +8,6 @@ Key steps included:
 
 ## BEFORE
 ![BEFORE](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Exercise_'Absenteeism'_Udemy_Data_Cleaning/raw_data.jpg))
+
+## AFTER
+![AFTER](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Exercise_'Absenteeism'_Udemy_Data_Cleaning/data_cleaned.jpg)
