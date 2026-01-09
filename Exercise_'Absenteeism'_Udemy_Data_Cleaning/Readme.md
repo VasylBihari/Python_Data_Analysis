@@ -1,5 +1,5 @@
 As part of the Udemy course "The Complete Data Analytics Course!" https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/  
-I performed data cleaning using the truancy dataset.
+I performed data cleaning using the dataset "Absenteeism".
 
 Key steps included: 
 ✅ Processing categorical data by grouping 28 reasons for absence into four logical clusters using dummy variables. 
