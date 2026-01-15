@@ -18,4 +18,4 @@ The solution automates data preparation and leverages AI to transform pre-aggreg
 -  CSV data sources
 
 ## Outcome
-The final output is a concise, presentation-ready ![business report](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Superstore_Sales/4_output/Business%20Analytics%20Report_Sales%20Superstore.pdf) suitable for decision-makers, demonstrating how AI can support analytical storytelling.
+The final output is a concise, presentation-ready [business report](https://github.com/VasylBihari/Python_Data_Analysis/blob/main/Superstore_Sales/4_output/Business%20Analytics%20Report_Sales%20Superstore.pdf) suitable for decision-makers, demonstrating how AI can support analytical storytelling.
